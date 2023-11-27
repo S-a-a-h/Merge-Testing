@@ -1,2 +1,1 @@
-print('Hallaw Warld!')
-
+print('Hellaw')
